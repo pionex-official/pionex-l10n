@@ -1,7 +1,7 @@
 {
     "l10n_client": "app",
-    "l10n_locale": "en",
-    "l10n_name": "English",
+    "l10n_locale": "kr",
+    "l10n_name": "Korean",
     "l10n_base_locale": "en",
     "l10n_base_name": "English",
     "l10n_version": "2023090101",
